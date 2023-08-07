@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TheTrainMaster:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TheTrainMaster_jar</output-path>
+    <root id="archive" name="TheTrainMaster.jar">
+      <element id="module-output" name="TheTrainMaster" />
+    </root>
+  </artifact>
+</component>
